@@ -1,17 +1,18 @@
-### Hi there 👋
+# Hi I'm Utku ✋
+I love math, backend programming, software testing tools and RC vehicles
+    
 
-<!--
-**Utku-A/Utku-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Interests
+- 📟 Arduino
+- 🪐 Space
+- ⚛️ Automation Projects
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://github-readme-stats.vercel.app/api?username=Utku-A&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+## I'm always available for a project friend 👏
+</br>
+</br>
+
+<!--<img src="https://github-readme-stats.vercel.app/api?username=Utku-A&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utku-A)](https://github.com/Utku-A)
