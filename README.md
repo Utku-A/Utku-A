@@ -12,11 +12,6 @@
 - 🕹️ Simulations
 
 
-</br>
-
-
-
-
 |  ⭐  Languages & Frameworks & Tools                  |
 |:---------------------------: |
 |<img width="50px" src="img/java.png">     Selenium, JUnit, TestNG, Cucumber, Maven |
@@ -24,7 +19,6 @@
 |<img width="30px" src="img/html.png">  <img width="30px" src="img/css.png"> <img width="60px" src="img/git.png"> <img width="60px" src="img/mysql.png"> <img width="60px" src="img/sqlite.png"> |
 
 
- 
 
 ## I'm always available for a project friend 👏
 <!--<img src="https://github-readme-stats.vercel.app/api?username=Utku-A&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
