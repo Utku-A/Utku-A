@@ -19,7 +19,6 @@
 ## 🧠 I'm currently learning Java, Python
 
 
-|            |          |
 |----------                                |:---------------------------------------:|
 |<img width="50px" src="img/java.png">     |Selenium, JUnit, TestNG, Cucumber, Maven |
 |<img width="30px" src="img/python.png">   |Flask, PyQt5,                            |
