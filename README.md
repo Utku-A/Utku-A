@@ -1,6 +1,6 @@
 # Hi I'm Utku ✋
 ### 💫 I love math, backend programming, software testing tools and RC vehicles
-### 🧠 I'm currently learning Java, Python
+### 🧠 I'm currently learning Java, Python and testing tools
 
 </br>
 
